@@ -6,3 +6,5 @@ modifyibg biggest of three number
 
 
 this is the end of the scripts
+this is the 3rd class of git\
+
