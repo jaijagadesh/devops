@@ -1,0 +1,113 @@
+    1  sudo yum update -y
+    2  sudo yum update
+    3  ls
+    4  ls -lrt
+    5  pwd
+    6  pwd-class
+    7  ls 
+    8  ls -lrt
+    9  mkdir linux_class
+   10  ls
+   11  cd linux_class/
+   12  ls
+   13  pwd
+   14  ps -ef
+   15  date
+   16  time
+   17  ls
+   18  pwd
+   19  mkdir scripts
+   20  exit
+   21  sudo yum update
+   22  ls
+   23  cd
+   24  cd linux_class/
+   25  pwd
+   26  ssh ec2-user@35.154.14.181
+   27  clear
+   28  usr/share/zoneinfo
+   29  date
+   30  time
+   31  pf -ef
+   32  date
+   33  ls
+   34  ls -lrt
+   35  cd ..
+   36  pwd
+   37  ls -lrt
+   38  cd linux_class/
+   39  yum install git
+   40  sudo yum install git
+   41  git init
+   42  which git
+   43  whereis git
+   44  cat /etc/os-release
+   45  sudo yum install -y
+   46  whereis git
+   47  which git
+   48  git --version
+   49  clear
+   50  cat /etc/os-release
+   51  pwd
+   52  cd scripts/
+   53  ped
+   54  pwd
+   55  ls -lrt
+   56  touch add.sh
+   57  touch biggestof2.sh
+   58  touch biggestof3.sh
+   59  touch file_loop.sh
+   60  touch leapyear.sh
+   61  touch task.sh
+   62  touch arth.sh
+   63  touch case.sh
+   64  touch reverse.sh
+   65  touch factofnum.sh
+   66  touch check_number
+   67  touch factorial.sh
+   68  ls -lrt
+   69  ls
+   70  exit
+   71  ls
+   72  pwd
+   73  cd
+   74  cd linux_class/
+   75  cd scripts/
+   76  ls -lrt
+   77  git init
+   78  which git
+   79  ls
+   80  pwd
+   81  git init
+   82  ls -lart
+   83  git status
+   84  git add *
+   85  git status
+   86  git commit -m "adding shell scripts"
+   87  git remote -v
+   88  git push
+   89  git remote add git@github.com:jaijagadesh/devops1.git
+   90  git push origin
+   91   git push --set-upstream origin master
+   92  git remote add https://github.com/jaijagadesh/devops1.git
+   93  git oush origin
+   94  git push origin
+   95  git push --set-upstream origin master
+   96  Please make sure you have the correct access rights
+   97  and the repository exists.
+   98  git push --set-upstream origin master
+   99  git remote add https://github.com/jaijagadesh/devops.git
+  100  pwd
+  101  git init
+  102  ls -lart
+  103  git status
+  104  git add *
+  105  git status
+  106  git commit -m "adding scripts
+  107  git commit -m "adding scripts"
+  108  git remote -v
+  109  git push
+  110  git remote add origin https://github.com/jaijagadesh/devops.git
+  111  git push origin
+  112  git push --set-upstream origin master
+  113  history >>file1.txt
